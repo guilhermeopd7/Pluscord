@@ -2,5 +2,380 @@
   "format": 1,
   "name": "Pluscord",
   "description": "Ferramentas e personalização em português brasileiro. Catálogo experimental para Valenced.",
-  "plugins": {}
+  "plugins": {
+    "dev.pluscord.call-timer": {
+      "name": "Cronômetro de chamadas aprimorado",
+      "description": "Prévia local de duração oficial, estimativa manual e tempo mínimo observado, sem coletar dados de participantes.",
+      "author": "Pluscord",
+      "channels": {
+        "latest": "0.2.0"
+      },
+      "versions": {
+        "0.2.0": {
+          "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.call-timer@0.2.0.zip",
+          "sha256": "3fd5588cadf5f53c6256fff73663640cd1f8d330fc274f9bff689f6d774c6fa0",
+          "size": 1912,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
+    "dev.pluscord.cat": {
+      "name": "Mascote interativo",
+      "description": "Oito mascotes pixel art selecionáveis: Tami, Pochi, Mimi, Puru, Kapi, Kitsu, Bambu e Pio. Prévia local animada.",
+      "author": "Pluscord",
+      "channels": {
+        "latest": "0.2.0"
+      },
+      "versions": {
+        "0.2.0": {
+          "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.cat@0.2.0.zip",
+          "sha256": "0d7817529ff52624a916780d4a7cbde6645dba2673e117ccfe34aad89a54cac0",
+          "size": 4637,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
+    "dev.pluscord.code-block": {
+      "name": "Criar blocos de código",
+      "description": "Prepara um bloco de código Markdown.",
+      "author": "Pluscord",
+      "channels": {
+        "latest": "0.2.0"
+      },
+      "versions": {
+        "0.2.0": {
+          "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.code-block@0.2.0.zip",
+          "sha256": "413621d9ce7f9181277805e26c6b8258eeb0388a2472bf9d5e8ea5290ac5c360",
+          "size": 11152,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
+    "dev.pluscord.draft-stats": {
+      "name": "Estatísticas do rascunho",
+      "description": "Conta linhas, parágrafos e bytes UTF-8 do texto informado.",
+      "author": "Pluscord",
+      "channels": {
+        "latest": "0.2.0"
+      },
+      "versions": {
+        "0.2.0": {
+          "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.draft-stats@0.2.0.zip",
+          "sha256": "8e15e96c760aae5563d3aa698227218dbb5d3057a2b623500b017c6df494e6eb",
+          "size": 11179,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
+    "dev.pluscord.line-numbers": {
+      "name": "Numerar linhas",
+      "description": "Adiciona números às linhas da prévia.",
+      "author": "Pluscord",
+      "channels": {
+        "latest": "0.2.0"
+      },
+      "versions": {
+        "0.2.0": {
+          "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.line-numbers@0.2.0.zip",
+          "sha256": "ccb349354bd1e457cbead5cbaabe099edd188f957e1d51e252589c5706e8b64f",
+          "size": 11157,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
+    "dev.pluscord.link-inspector": {
+      "name": "Inspecionar links Markdown",
+      "description": "Mostra os destinos de links presentes no texto informado.",
+      "author": "Pluscord",
+      "channels": {
+        "latest": "0.2.0"
+      },
+      "versions": {
+        "0.2.0": {
+          "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.link-inspector@0.2.0.zip",
+          "sha256": "a50dbcb32a2aca725428ef89df879208229ba135198ba5026396459c9a84a77b",
+          "size": 11162,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
+    "dev.pluscord.list-format": {
+      "name": "Criar listas",
+      "description": "Formata listas com marcadores, números ou tarefas.",
+      "author": "Pluscord",
+      "channels": {
+        "latest": "0.2.0"
+      },
+      "versions": {
+        "0.2.0": {
+          "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.list-format@0.2.0.zip",
+          "sha256": "dbf46b85dd42ab3b9ee3ed14a5632f6471af9134b12ea6bd65f549c82ad88bb4",
+          "size": 11152,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
+    "dev.pluscord.media-alt": {
+      "name": "Descrição acessível de mídia",
+      "description": "Prepara a descrição de acessibilidade escrita manualmente.",
+      "author": "Pluscord",
+      "channels": {
+        "latest": "0.2.0"
+      },
+      "versions": {
+        "0.2.0": {
+          "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.media-alt@0.2.0.zip",
+          "sha256": "3b8bc6fc2de2cdb7042b3eec4c5136deaae15eb2fd08e1eda810bb44fc83f9ec",
+          "size": 11169,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
+    "dev.pluscord.quote-tools": {
+      "name": "Formatar citações",
+      "description": "Prepara citações no formato Markdown.",
+      "author": "Pluscord",
+      "channels": {
+        "latest": "0.2.0"
+      },
+      "versions": {
+        "0.2.0": {
+          "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.quote-tools@0.2.0.zip",
+          "sha256": "1174f42338ecfee2a6d4dc5aaecaaeb64314dacc7d660f1735b81760365dc3eb",
+          "size": 11153,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
+    "dev.pluscord.sort-lines": {
+      "name": "Ordenar linhas",
+      "description": "Organiza linhas em ordem alfabética.",
+      "author": "Pluscord",
+      "channels": {
+        "latest": "0.2.0"
+      },
+      "versions": {
+        "0.2.0": {
+          "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.sort-lines@0.2.0.zip",
+          "sha256": "9d7311b2450d840e7654ac07dcad1c49f556483ee2c149850dfb8e34b98c5e26",
+          "size": 11145,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
+    "dev.pluscord.text-spacing": {
+      "name": "Normalizar espaços",
+      "description": "Ajusta espaços e linhas vazias.",
+      "author": "Pluscord",
+      "channels": {
+        "latest": "0.2.0"
+      },
+      "versions": {
+        "0.2.0": {
+          "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.text-spacing@0.2.0.zip",
+          "sha256": "f9360374aec9a665bc8b4bcf13a684cf51e96c2134d1b0544cbe38cc99a2cc1f",
+          "size": 11147,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
+    "dev.pluscord.text-tools": {
+      "name": "Ferramentas de texto",
+      "description": "Ajusta espaços nas bordas e maiúsculas ou minúsculas.",
+      "author": "Pluscord",
+      "channels": {
+        "latest": "0.2.0"
+      },
+      "versions": {
+        "0.2.0": {
+          "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.text-tools@0.2.0.zip",
+          "sha256": "46556673e12ad1c4b1ec5cba961011b7234e305310063a3e6b1455c1aa9f97b9",
+          "size": 11165,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
+    "dev.pluscord.theme-custom": {
+      "name": "Meu tema personalizado",
+      "description": "Editor opcional de cores com prévia, contraste e salvamento local.",
+      "author": "Pluscord",
+      "channels": {
+        "latest": "0.2.0"
+      },
+      "versions": {
+        "0.2.0": {
+          "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.theme-custom@0.2.0.zip",
+          "sha256": "8984f9b21657b67dad2f7ff3464cb5d14ceba54b10f0ecc342850c64ccae724c",
+          "size": 3250,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
+    "dev.pluscord.themes": {
+      "name": "Pluscord Themes",
+      "description": "Oito paletas escuras para o seletor nativo de temas do Valenced.",
+      "author": "Pluscord",
+      "channels": {
+        "latest": "0.2.0"
+      },
+      "versions": {
+        "0.2.0": {
+          "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.themes@0.2.0.zip",
+          "sha256": "364ebcc3cb48cc54ea207403f4b279b00d8d4e4f6252d789187594db677b7c12",
+          "size": 1974,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
+    "dev.pluscord.unindent": {
+      "name": "Remover indentação",
+      "description": "Remove a indentação comum de um texto.",
+      "author": "Pluscord",
+      "channels": {
+        "latest": "0.2.0"
+      },
+      "versions": {
+        "0.2.0": {
+          "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.unindent@0.2.0.zip",
+          "sha256": "032178c6ebdc477c330ecb84670767bd26b518840e39358c206b0f2db3b545dd",
+          "size": 11142,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
+    "dev.pluscord.unique-lines": {
+      "name": "Remover linhas duplicadas",
+      "description": "Remove linhas repetidas preservando a ordem.",
+      "author": "Pluscord",
+      "channels": {
+        "latest": "0.2.0"
+      },
+      "versions": {
+        "0.2.0": {
+          "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.unique-lines@0.2.0.zip",
+          "sha256": "283955d7b48dcb74cdb9ecf5e3cee74227e04f1986bb93c51f245fb811768a97",
+          "size": 11152,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    }
+  }
 }
