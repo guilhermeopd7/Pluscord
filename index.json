@@ -13,7 +13,7 @@
       "versions": {
         "0.3.4": {
           "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.call-timer@0.3.4.zip",
-          "sha256": "fa43d1bed00caf73745ea8c6bed52a55676acbb84e14af11ee51b79a5f8b5d60",
+          "sha256": "9ff05dadc66ef4f578ce7d8d0c2cd5f8592ea1f5f184b2dc2c4e6cd50e66d563",
           "size": 2783,
           "dependencies": {
             "valenced.api": {
@@ -36,7 +36,7 @@
       "versions": {
         "0.3.4": {
           "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.cat@0.3.4.zip",
-          "sha256": "70d967b2ac0527c5a085464ad447afc16805326ab866ff6e28f27b075613e97a",
+          "sha256": "fbd7d0ca62c1496c0f6c2580679d8c95222a4bd382c2c18fd178d846e2bf2242",
           "size": 27970,
           "dependencies": {
             "valenced.api": {
@@ -59,7 +59,7 @@
       "versions": {
         "0.3.4": {
           "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.code-block@0.3.4.zip",
-          "sha256": "fdec9853bcf45b8ec3d17f99ff80b50eac3e69a629dfd2a227a63a6061f2d506",
+          "sha256": "61c19c4632c711145fd45f42acbae2b073eda6f0904f97b63cc237bd8e683de4",
           "size": 11152,
           "dependencies": {
             "valenced.api": {
@@ -82,7 +82,7 @@
       "versions": {
         "0.3.4": {
           "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.draft-guard@0.3.4.zip",
-          "sha256": "625ec5df2b82030bbd340e683f8ea90bfbdc26f6929e895578462120b20d4011",
+          "sha256": "f94eb719ddaa7d4ba44b7453791a97a702e6471db516cd46238c9fb6a100ed5d",
           "size": 5224,
           "dependencies": {
             "valenced.api": {
@@ -105,7 +105,7 @@
       "versions": {
         "0.3.4": {
           "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.draft-stats@0.3.4.zip",
-          "sha256": "0dcb41c68d18da0def6e74ea77b1ebf28694d2db81d4f2ba58b87eacad6bf324",
+          "sha256": "065630f324fd5776ad549c3efe12545654018b7dd5b94a5b72004f3f6255b0af",
           "size": 11180,
           "dependencies": {
             "valenced.api": {
@@ -128,7 +128,7 @@
       "versions": {
         "0.3.4": {
           "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.line-numbers@0.3.4.zip",
-          "sha256": "74cefd311a526ac0d6c27e16f6b5f97f15f427f99e7e8f3f6ab8714313848385",
+          "sha256": "da96f6209ab9a3b8a5fa4d322ed25dfbbbea30c4d9588065c1fe8f2d79123c6d",
           "size": 11158,
           "dependencies": {
             "valenced.api": {
@@ -151,7 +151,7 @@
       "versions": {
         "0.3.4": {
           "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.link-inspector@0.3.4.zip",
-          "sha256": "6e8cd4b86c036579c7216bdadd52a543ad3a267598bb5a5f80d9a7aebc24584a",
+          "sha256": "1e5bd34d9bafa90db3c5c5692ed2cea5cf0e7ea7f7bc6b6d33ccb68a3a87b05a",
           "size": 11162,
           "dependencies": {
             "valenced.api": {
@@ -174,7 +174,7 @@
       "versions": {
         "0.3.4": {
           "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.list-format@0.3.4.zip",
-          "sha256": "7b9ce397891056b78e8a67d9697b0f1b1d3e5646f06ef26430c0d0741c08f1ff",
+          "sha256": "cd49e59edbe57da700f60e3dcf66b6e991b35c77dca2dac386a109a5be80d923",
           "size": 11152,
           "dependencies": {
             "valenced.api": {
@@ -197,7 +197,7 @@
       "versions": {
         "0.3.4": {
           "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.media-alt@0.3.4.zip",
-          "sha256": "a9b35271021a490105424ac4921159df10af3a3f0f5e94af970709c84fa3b4eb",
+          "sha256": "2ec24cd59738bc6dba6417fca0ce607adad936d3e12696be68f7887ca9ab7bda",
           "size": 11170,
           "dependencies": {
             "valenced.api": {
@@ -220,7 +220,7 @@
       "versions": {
         "0.3.4": {
           "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.personal-notes@0.3.4.zip",
-          "sha256": "f60c787fbda87df1f3f301ccc0dca63a88205573f201d97d26b96ae4cfa80612",
+          "sha256": "91565bb936ace627ff7bb13d635acfe47c6ff15ea7ea28f7db6e0689e0083fc1",
           "size": 1949,
           "dependencies": {
             "valenced.api": {
@@ -243,7 +243,7 @@
       "versions": {
         "0.3.4": {
           "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.platform-indicators@0.3.4.zip",
-          "sha256": "f5596ed4b127ef514021b966c4abe0aaa6ab89dcdbb8fe438020decb206e0a6f",
+          "sha256": "1d4b8e181d996c07f377fad26522b7bfa1b807c0b8766be305fe353a8ca1693c",
           "size": 2983,
           "dependencies": {
             "valenced.api": {
@@ -266,7 +266,7 @@
       "versions": {
         "0.3.4": {
           "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.quote-tools@0.3.4.zip",
-          "sha256": "298f869be8e008a25604511572f77ea02919a71f49b9efdf6a836ca6eba0ef7e",
+          "sha256": "1c19da6d61048f68a6e2e8e0033ba52add8b56c1b0c5db0bf95aa70a358d9719",
           "size": 11153,
           "dependencies": {
             "valenced.api": {
@@ -289,7 +289,7 @@
       "versions": {
         "0.3.4": {
           "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.smart-reply@0.3.4.zip",
-          "sha256": "35b893183c475c64c495139b90758e50a4b39d574851a0c3f46da9aedaf9e888",
+          "sha256": "57755467eaecc5cd3e89e3adf92345f838d846c0ac9be93757e882373be2dffd",
           "size": 3227,
           "dependencies": {
             "valenced.api": {
@@ -312,7 +312,7 @@
       "versions": {
         "0.3.4": {
           "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.sort-lines@0.3.4.zip",
-          "sha256": "1ca8b6187fcfe96b1d608e58e9a56d27a7e6c9575393527a3e83eec62131309e",
+          "sha256": "f851ef072c398a56c47376e864649bdcbbe3d92ffd83a4dcdc39a21bfe222d3d",
           "size": 11146,
           "dependencies": {
             "valenced.api": {
@@ -335,7 +335,7 @@
       "versions": {
         "0.3.4": {
           "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.text-spacing@0.3.4.zip",
-          "sha256": "07f35b8f3319d65c2c1d34829c1501bcc6ed4223177bee9a942d7e63c475f1b4",
+          "sha256": "323cb3d89595cfa23140c5a8bfabed2b2ea5110afe700530e56175283e4edc89",
           "size": 11150,
           "dependencies": {
             "valenced.api": {
@@ -358,7 +358,7 @@
       "versions": {
         "0.3.4": {
           "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.text-tools@0.3.4.zip",
-          "sha256": "c5721aa46135cfe0c272a96ff73351e538b07ae5ac565a5c01da99b03f78eff2",
+          "sha256": "3f2bf94a3dfbed7bfb3b126617fa48cc52b2dec685dc91c0addbdd5301f2e9bc",
           "size": 11167,
           "dependencies": {
             "valenced.api": {
@@ -381,7 +381,7 @@
       "versions": {
         "0.3.4": {
           "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.theme-custom@0.3.4.zip",
-          "sha256": "06721b19852c3f0196b67788d288d5445f1a9714f8638ac593239c1ae6aba9fb",
+          "sha256": "b2a68763d83efe4cc591494956236af7cb3e32239bc30e9e5e261bff3ccd348f",
           "size": 3250,
           "dependencies": {
             "valenced.api": {
@@ -407,7 +407,7 @@
       "versions": {
         "0.3.4": {
           "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.themes@0.3.4.zip",
-          "sha256": "b8969ca1e999d2cd1ee0cf8f741650425fbdbadca9b48978a2534f90757628b9",
+          "sha256": "c583a9fde7133fe7fc06b01d4d7b64b2644457c8c8648cc1bd1755a50323ad1a",
           "size": 1975,
           "dependencies": {
             "valenced.api": {
@@ -433,8 +433,8 @@
       "versions": {
         "0.3.4": {
           "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.translate@0.3.4.zip",
-          "sha256": "9fa64bea05d6801852b086f06a4936cd33f43b6cec2a90f51aa28f4c3285570b",
-          "size": 58384,
+          "sha256": "ab07f9570bd59e1319567a6cb070fd59442144179c8d63c3b25b1ac1f5715034",
+          "size": 57943,
           "dependencies": {
             "valenced.api": {
               "version": ">=1 <2"
@@ -456,7 +456,7 @@
       "versions": {
         "0.3.4": {
           "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.unindent@0.3.4.zip",
-          "sha256": "b263fa5cbe626704253c86b6440ad976139e363fbc5300cacdf762f1ddb4cb50",
+          "sha256": "82afecafcbcea304e7053ba0f8ab6d5404d8730b7aaa753378c18eb93875186e",
           "size": 11143,
           "dependencies": {
             "valenced.api": {
@@ -479,7 +479,7 @@
       "versions": {
         "0.3.4": {
           "url": "https://raw.githubusercontent.com/guilhermeopd7/Pluscord/main/pool/dev.pluscord.unique-lines@0.3.4.zip",
-          "sha256": "6af7ce01fa2b3688ae5da4ab5bd80bf29cdcc3ae913f3ec97b0f7cb90e38c183",
+          "sha256": "f9bd73ada9461aa12c1e505bb79719b3fb2a4f539d6a3533a1e213e71bcc8480",
           "size": 11153,
           "dependencies": {
             "valenced.api": {
